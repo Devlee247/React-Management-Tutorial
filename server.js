@@ -12,7 +12,7 @@ app.get('/api/customers', (req, res) => {
         'id' : 1,
         'image' : 'https://placeimg.com/64/64/any',
         'name' : '홍길동',
-        'birthday' : '990419',
+        'birthday' : '990410',
         'gender' : '남성',
         'job' : '대학생'  
        },
