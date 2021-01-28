@@ -1,5 +1,8 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+# upload
+/upload
+
 # database
 /database.json
 
@@ -7,6 +10,9 @@
 /node_modules
 /.pnp
 .pnp.js
+
+# eslintcache
+/client/.eslintcache
 
 # testing
 /coverage
